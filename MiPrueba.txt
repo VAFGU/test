@@ -13,12 +13,6 @@ Apoco si bien p6?
 Lo volveré a editar...
 
 
-Prueba desde el local
-y veremos como hace el merge
-
-
-código viejo!!!
-
 Y metiendo más código
 
 Haber que pedo, aquí mas cambios
@@ -42,3 +36,10 @@ Van las mismas lineas
 
 Seguimos trabajando!!
 Yo tambien sigo trabajando
+
+
+Prueba desde el local
+y veremos como hace el merge
+
+
+código viejo!!!
