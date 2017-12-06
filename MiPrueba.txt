@@ -20,6 +20,8 @@ y veremos como hace el merge
 
 código nuevo!!!
 
+Y metiendo más código
+
 Haber que pedo, aquí mas cambios
 Ya me chingue esos cambios no?
 
@@ -38,3 +40,5 @@ Una última prueba desde el IDE...
 
 LAs MISMAS LINEAS ENTONCES
 Van las mismas lineas
+
+Yo tambien sigo trabajando
