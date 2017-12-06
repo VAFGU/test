@@ -1,5 +1,7 @@
 Veremos que es lo que pasa...
 
+Jolinesh!!
+
 Cualquier cosa
 //Se me olvidó está línea
 Sigo trabajando
@@ -7,7 +9,7 @@ Sigo trabajando
 Y otra aca,
 Que pasa?
 
-Apoco si bien p4?
+Apoco si bien p6?
 
 Lo volveré a editar...
 
@@ -34,4 +36,4 @@ Se hicieron modificaciones
 
 Una última prueba desde el IDE...
 
-Pero no supe que pasó
+LAs MISMAS LINEAS ENTONCES
