@@ -5,11 +5,17 @@ Mi nueva línea
 Como que cualquier cosa?
 
 Cualquier cosa
-Se me olvidó está línea
+//Se me olvidó está línea
 Sigo trabajando
 
 Y otra aca,
 Que pasa?
+
+
+
+Prueba desde el local
+y veremos como hace el merge
+
 
 código nuevo!!!
 
@@ -30,3 +36,5 @@ Por aquí va mas código
 Se hicieron modificaciones
 
 Una última prueba desde el IDE...
+
+Pero no supe que pasó
