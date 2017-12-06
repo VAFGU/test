@@ -9,6 +9,8 @@ Que pasa?
 
 Apoco si bien p4?
 
+Lo volveré a editar...
+
 
 Prueba desde el local
 y veremos como hace el merge
@@ -23,8 +25,6 @@ Y por aquí tambien agruegé mas código
 
 Pues ya ni se que he echo
 
-Para probar
-//De echo vas super bien 25/08/2017
 
 Ahora sí veremos que onda
 
