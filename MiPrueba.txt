@@ -9,6 +9,8 @@ Sigo trabajando
 Y otra aca,
 Que pasa?
 
+System.put.println("Nada");
+
 código nuevo!!!
 
 Haber que pedo, aquí mas cambios
@@ -16,10 +18,9 @@ Ya me chingue esos cambios no?
 
 Y por aquí tambien agruegé mas código
 
-Pues ya ni se que he echo
+Pues ya ni se que he echo, la neta? Nada
 
 Para probar
-//De echo vas super bien 25/08/2017
 
 Por aquí va mas código
 
