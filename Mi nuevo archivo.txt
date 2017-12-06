@@ -1,6 +1,6 @@
 Una nueva línea
+LINEA DE PRUEBA --Lo quiero en mayúsculas
 
-Línea de prueba.
 
 Mi nuevo archivo
 
@@ -13,6 +13,17 @@ Codigo en java
 Codigo en java
 //
 
-Mas modificaicones.
+codigo
+codigo
+codigo
+codigo
+codigo
+codigo
+codigo;
+
+//comentarios del Crys
+
 
 Editado por mi
+
+Más modificaicones.
