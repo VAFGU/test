@@ -1,3 +1,5 @@
+Mi nueva línea
+
 Como que cualquier cosa?
 
 Pero si meto aquí una línea?
@@ -5,11 +7,13 @@ Pero si meto aquí una línea?
 Cualquier cosa
 Sigo trabajando
 
-Y otra por aca,
+Y otra aca,
 Que pasa?
 
-Haber que pedo
+Haber que pedo, aquí mas cambios
 Ya me chingue esos cambios no?
+
+Otra mas por acá..
 
 Y por aquí tambien agruegé mas código
 
@@ -17,3 +21,4 @@ Pues ya ni se que he echo
 
 Hice mas cambios yo tambien...
 De echo vas super bien
+
