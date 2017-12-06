@@ -8,7 +8,7 @@ Sigo trabajando
 Y otra aca,
 Que pasa?
 
-Apoco si bien p6?
+//Apoco si bien p6?
 
 Lo volveré a editar...
 
@@ -42,3 +42,5 @@ Van las mismas lineas
 
 Seguimos trabajando!!
 Yo tambien sigo trabajando
+
+Mas código!!
