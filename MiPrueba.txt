@@ -2,8 +2,6 @@ Mi nueva línea
 
 Como que cualquier cosa?
 
-Pero si meto aquí una línea?
-
 Cualquier cosa
 Sigo trabajando
 
@@ -20,5 +18,6 @@ Y por aquí tambien agruegé mas código
 Pues ya ni se que he echo
 
 Hice mas cambios yo tambien...
-De echo vas super bien
+//De echo vas super bien 25/08/2017
 
+Se hicieron modificaciones
