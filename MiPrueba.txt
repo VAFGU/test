@@ -1,3 +1,5 @@
+Mi nueva línea
+
 Como que cualquier cosa?
 
 Pero si meto aquí una línea...
@@ -6,14 +8,19 @@ Cualquier cosa
 Se me olvidó está línea
 Sigo trabajando
 
-Y otra por aca,
+Y otra aca,
 Que pasa?
 
-Haber que pedo
+código nuevo!!!
+
+Haber que pedo, aquí mas cambios
 Ya me chingue esos cambios no?
+
+Y por aquí tambien agruegé mas código
 
 Pues ya ni se que he echo
 
+Para probar
 De echo vas super bien
 
 Por aquí va mas código
