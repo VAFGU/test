@@ -13,12 +13,6 @@ Que pasa?
 Lo volveré a editar...
 
 
-Prueba desde el local
-y veremos como hace el merge
-
-
-código viejo!!!
-
 Y metiendo más código
 
 Haber que pedo, aquí mas cambios
@@ -44,3 +38,9 @@ Seguimos trabajando!!
 Yo tambien sigo trabajando
 
 Mas código!!
+
+Prueba desde el local
+y veremos como hace el merge
+
+
+código viejo!!!
