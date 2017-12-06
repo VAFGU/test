@@ -7,8 +7,6 @@ Sigo trabajando
 Y otra aca,
 Que pasa?
 
-Apoco si bien p4?
-
 Lo volveré a editar...
 
 
@@ -34,4 +32,4 @@ Se hicieron modificaciones
 
 Una última prueba desde el IDE...
 
-Pero no supe que pasó
+Van las mismas lineas
